@@ -1,1 +1,3 @@
-dail
+# codedamn-challenges
+
+daily codedamn challenges
