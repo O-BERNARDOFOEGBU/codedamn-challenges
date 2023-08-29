@@ -12,3 +12,5 @@ export const getEmailCount = (inputString) => {
     return matches.length;  
 }
 
+// study regex
+
