@@ -8,8 +8,7 @@ export const getEmailCount = (inputString) => {
     const matches = inputString.match(emailRegex);
     if(!matches){
         return 0
-    } else {
-        return matches.length;
-    }    
+    }
+    return matches.length;  
 }
 
